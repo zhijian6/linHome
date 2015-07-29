@@ -145,6 +145,9 @@ body,span,label,div,button,p,a,table,textarea,section,option
 .bj-f4f4f4{
     background-color: #f4f4f4;
 }
+.bj-2a{
+    background-color: #36426c;
+}
 /*漂浮*/
 .left{
     float: left;
